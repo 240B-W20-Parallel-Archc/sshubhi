@@ -1,0 +1,14 @@
+Steps:
+**************************
+make clean
+make
+chmod 777 doit.sh
+./doit.sh
+********************************
+
+Output files:
+
+rd_overall_cache_latency_report.csv
+rd_thread_cache_latency_report.csv
+rw_overall_cache_latency_report.csv
+rw_thread_cache_latency_report.csv
